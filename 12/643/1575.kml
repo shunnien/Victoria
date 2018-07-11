@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>12/643/1575.kml</name>
+    <description></description>
+    <Style>
+      <ListStyle id="hideChildren">
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <Region>
+      <LatLonAltBox>
+        <north>48.51562500000000</north>
+        <south>48.42773437500000</south>
+        <east>-123.39843750000000</east>
+        <west>-123.48632812500000</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>128</minLodPixels>
+        <maxLodPixels>2048</maxLodPixels>
+      </Lod>
+    </Region>
+    <GroundOverlay>
+      <drawOrder>24</drawOrder>
+      <Icon>
+        <href>https://flora2test.eri.com.tw/GoogleEarthSuperOverlays/Victoria_OverlayerFORLevel8to19/Victoria/12/643/1575.png</href>
+      </Icon>
+      <LatLonBox>
+        <north>48.51562500000000</north>
+        <south>48.42773437500000</south>
+        <east>-123.39843750000000</east>
+        <west>-123.48632812500000</west>
+      </LatLonBox>
+    </GroundOverlay>
+    <NetworkLink>
+      <name>13/1287/3150.png</name>
+      <Region>
+        <LatLonAltBox>
+          <north>48.47167968750000</north>
+          <south>48.42773437500000</south>
+          <east>-123.39843750000000</east>
+          <west>-123.44238281250000</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>https://flora2test.eri.com.tw/GoogleEarthSuperOverlays/Victoria_OverlayerFORLevel8to19/Victoria//13/1287/3150.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+        <viewFormat />
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
