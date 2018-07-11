@@ -1,37 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
-    <kml xmlns="http://www.opengis.net/kml/2.2">
-      <Document>
-        <name>19/82440/201580.kml</name>
-        <description></description>
-        <Style>
-          <ListStyle id="hideChildren">
-            <listItemType>checkHideChildren</listItemType>
-          </ListStyle>
-        </Style>
-        <Region>
-          <LatLonAltBox>
-            <north>48.41468811035156</north>
-            <south>48.41400146484375</south>
-            <east>-123.39225769042969</east>
-            <west>-123.39294433593750</west>
-          </LatLonAltBox>
-          <Lod>
-            <minLodPixels>128</minLodPixels>
-            <maxLodPixels>-1</maxLodPixels>
-          </Lod>
-        </Region>
-        <GroundOverlay>
-          <drawOrder>38</drawOrder>
-          <Icon>
-            <href>201580.png</href>
-          </Icon>
-          <LatLonBox>
-            <north>48.41468811035156</north>
-            <south>48.41400146484375</south>
-            <east>-123.39225769042969</east>
-            <west>-123.39294433593750</west>
-          </LatLonBox>
-        </GroundOverlay>
-          </Document>
-    </kml>
-        
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>19/82440/201580.kml</name>
+    <description></description>
+    <Style>
+      <ListStyle id="hideChildren">
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <Region>
+      <LatLonAltBox>
+        <north>48.41468811035156</north>
+        <south>48.41400146484375</south>
+        <east>-123.39225769042969</east>
+        <west>-123.39294433593750</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>128</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <GroundOverlay>
+      <drawOrder>38</drawOrder>
+      <Icon>
+        <href>https://shunnien.github.io/Victoria/19/82440/201580.png</href>
+      </Icon>
+      <LatLonBox>
+        <north>48.41468811035156</north>
+        <south>48.41400146484375</south>
+        <east>-123.39225769042969</east>
+        <west>-123.39294433593750</west>
+      </LatLonBox>
+    </GroundOverlay>
+  </Document>
+</kml>
