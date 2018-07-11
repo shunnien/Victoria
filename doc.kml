@@ -23,10 +23,11 @@
             </Lod>
           </Region>
           <Link>
-            <href>https://flora2test.eri.com.tw/GoogleEarthSuperOverlays/Victoria_OverlayerFORLevel8to19/Victoria/8/40/98.kml</href>
+            <href>8/40/98.kml</href>
             <viewRefreshMode>onRegion</viewRefreshMode>
             <viewFormat/>
           </Link>
         </NetworkLink>
                   </Document>
     </kml>
+        
